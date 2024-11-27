@@ -1,0 +1,10 @@
+C:\_github_desktop\C_sharp-array\C_sharp-array\bin\Debug\C_sharp-array.exe.config
+C:\_github_desktop\C_sharp-array\C_sharp-array\bin\Debug\C_sharp-array.exe
+C:\_github_desktop\C_sharp-array\C_sharp-array\bin\Debug\C_sharp-array.pdb
+C:\_github_desktop\C_sharp-array\C_sharp-array\obj\Debug\C_sharp-array.csproj.AssemblyReference.cache
+C:\_github_desktop\C_sharp-array\C_sharp-array\obj\Debug\C_sharp_array.Form1.resources
+C:\_github_desktop\C_sharp-array\C_sharp-array\obj\Debug\C_sharp_array.Properties.Resources.resources
+C:\_github_desktop\C_sharp-array\C_sharp-array\obj\Debug\C_sharp-array.csproj.GenerateResource.cache
+C:\_github_desktop\C_sharp-array\C_sharp-array\obj\Debug\C_sharp-array.csproj.CoreCompileInputs.cache
+C:\_github_desktop\C_sharp-array\C_sharp-array\obj\Debug\C_sharp-array.exe
+C:\_github_desktop\C_sharp-array\C_sharp-array\obj\Debug\C_sharp-array.pdb
